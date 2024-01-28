@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crosby601
 - 👀 I’m interested in creating programs
-- 🌱 I’m currently learning C# 
+- 🌱 C#/.NET/WPF junior
 - 💞️ I’m looking to collaborate on malware (educational purpose only)
 - 📫 You can reach me via discord / e-mail: crosby#0087/crosby@ghostcartel.pl
