@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Crosby601
+- 👋 Hi, I’m crosby
 - 📫 You can reach me via discord / e-mail: crosby#0087/crosby@ghostcartel.pl
